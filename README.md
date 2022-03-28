@@ -1,10 +1,12 @@
-# translateapp
+# Flutter Translate App
 
-A new Flutter project.
+will translate any language you put in the form field into English
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+you can try the demo from this: https://malcom1225.github.io/fluttertranslateapp/#/
+
+it is available on android, window and web.
 
 A few resources to get you started if this is your first Flutter project:
 
